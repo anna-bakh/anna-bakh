@@ -6,4 +6,4 @@ I have finised my **Data analytics** cources and I am open to job opportunities.
 
 Skiils: Exploratory data analysis (EDA), A/B testing, marketing analysis utilizing cohorts, hypothesis testing, creating dashboards
 
-Tools: Python, MySQL, Tableau, Excel
+Tools: Python, SQL, Tableau, Excel
